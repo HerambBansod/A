@@ -10,7 +10,7 @@ export default function HomePage() {
                 </div>
                 <div className='flex items-center justify-center gap-4'>
                     <a href="#projects" className='bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded transition duration-300'>View My Work</a>
-                    <a href="#contact" className='bg-gray-700 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded transition duration-300'>Resume</a>
+                    <a href="/Heramb.pdf" className='bg-gray-700 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded transition duration-300'>Resume</a>
                 </div>
             </section>
         </main>
